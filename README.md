@@ -1,2 +1,2 @@
 # fin_pj_dariahv
-final project
+Кроме структуры проекта ничего не сделала.
